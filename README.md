@@ -2,10 +2,10 @@ Gustavo Rodrigues de Oliveira
 
 Tenho conhecimentos em:
 
--   HTML
--   CSS
+-   HTML5
+-   CSS3
 -   JavaScript
 -   TypeScript
 -   NestJS.
 
-Todos em nível básico.
+Todos em nível iniciante.
